@@ -11,21 +11,21 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "babelify": "^6.3.0",
-    "eslint": "^1.7.1",
-    "eslint-config-standard": "^4.4.0",
-    "eslint-config-standard-react": "^1.1.0",
-    "eslint-plugin-standard": "^1.3.1",
+    "babelify": "^10.0.0",
+    "eslint": "^5.9.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-config-standard-react": "^7.0.2",
+    "eslint-plugin-standard": "^4.0.0",
     "faucet": "0.0.1",
-    "standard": "^5.3.1",
+    "standard": "^12.0.1",
     "tape": "^4.2.1"
   },
   "dependencies": {
-    "arsenic-logger": "^0.4.14",
-    "babel": "^5.8.23",
-    "bluebird": "^2.10.2",
-    "boom": "^2.9.0",
-    "hapi": "^9.0.2",
-    "mongoose": "^4.1.11"
+    "arsenic-logger": "^0.5.11",
+    "babel": "^6.23.0",
+    "bluebird": "^3.5.3",
+    "boom": "^7.2.2",
+    "hapi": "^17.7.0",
+    "mongoose": "^5.3.13"
   }
 }
