@@ -21,7 +21,7 @@
     "tape": "^4.2.1"
   },
   "dependencies": {
-    "arsenic-logger": "^0.4.14",
+    "arsenic-logger": "^0.5.11",
     "babel": "^5.8.23",
     "bluebird": "^2.10.2",
     "boom": "^2.9.0",
